@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>个人中心</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/style.css"/>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/signup.css"/>
+</head>
+<body>
+	<div class="main inner clearfix">
+		<h3>个人中心</h3>
+		<form action="__MODULE__/Center/editUser" method="post">
+			<table border="" cellspacing="" cellpadding="">
+				<input type="hidden" value="{$userRes['id']}" name="id">
+				<tr>
+					<td align="right">用户名<span>*</span></td>
+					<td><input type="text" value="{$Think.session.res.username}" name="userName" required /></td>
+					<!--<td class="error"><span><i><img src="__PUBLIC__/Home/images/xx_03.jpg"/></i>用户名不能为空</span></td>-->
+				</tr>
+                <tr>
+                    <td align="right">昵称<span>&nbsp;&nbsp;</span></td>
+                    <td><input type="text" value="{$userRes['nickname']}" name="nickName"/></td>
+                    <td class="error"></td>
+                </tr>
+				<!--<tr>
+					<td align="right">密码<span>*</span></td>
+					<td><input type="password" name="password" value="{$Think.session.res.password	}" required /></td>
+				</tr>-->
+				<tr>
+					<td align="right">电子邮箱<span>&nbsp;&nbsp;</span></td>
+					<td><input type="email" name="email" value="{$userRes['email']}" required /></td>
+				</tr>
+                <tr>
+                    <td align="right">qq号码<span>&nbsp;&nbsp;</span></td>
+                    <td><input type="number" name="qq" value="{$userRes['qq']}" required /></td>
+                </tr>
+                <tr>
+                    <td align="right">性别<span>&nbsp;&nbsp;</span></td>
+					<td>
+						<label><input type="radio" name="sex" value="m" width="30" {$userRes['sex']=='m'?'checked':''}>男</label>
+						<label><input type="radio" name="sex" value="w" width="30" {$userRes['sex']=='w'?'checked':''}>女</label>
+					</td>
+                </tr>
+				<tr>
+					<td></td>
+					<td><input type="submit" value="提交修改" class="signup" /></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+</body>
+</html>

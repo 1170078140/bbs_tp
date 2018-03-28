@@ -1,0 +1,53 @@
+<?php  date_default_timezone_set('PRC')?>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>主要内容区main</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/post.css">
+
+</head>
+<body>
+<div class="search inner">
+    <form action="" method="post">
+        <input type="text" name="" id="" placeholder="让学习成为一种习惯！" class="serBox"/>
+        <select name="">
+            <option value="">帖子</option>
+            <option value="">用户</option>
+            <option value="">板块</option>
+        </select>
+        <input type="submit" value="搜索" class="btn"/>
+        <ul class="tags clearfix">
+            <li>热搜：</li>
+            <li><a href="#">PHP</a></li>
+            <li><a href="#">明哥</a></li>
+            <li><a href="#">Java</a></li>
+            <li><a href="#">大数据</a></li>
+            <li><a href="#">Python</a></li>
+        </ul>
+    </form>
+</div>
+<div class="main inner">
+    <form method="post" action="__MODULE__/Reply/doReply">
+    <table>
+        <input type="hidden" name="ctime" value="{: date('Y/m/d H:i:s')}">
+        <input type="hidden" name="uid" value="{$_SESSION['res']['id']}">
+        <input type="hidden" name="pid" value="{$pid}">
+
+        <tr style="height: 50px;">
+            <td colspan="3">标题：&nbsp;<input style="width: 400px;" type="text" class="title" placeholder="{$post['title']}" readonly></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td colspan="3">内容：&nbsp;<input style="width: 400px;" type="text" class="title" placeholder="{$post['content']}" readonly></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td colspan="3"><span style="vertical-align: top">回复：&nbsp;</span><textarea name="content" style="width: 400px;height: 200px;border: #dcdcdc 1px solid;"></textarea> </td>
+        </tr>
+        <tr style="height: 70px;">
+            <td align="center"><input name="" type="submit" value="确定" class="btn"></td>
+        </tr>
+    </table>
+    </form>
+</div>
+</body>
+</html>

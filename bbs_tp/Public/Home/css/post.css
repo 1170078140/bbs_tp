@@ -1,0 +1,9 @@
+.main{background-color: #fff;padding-top: 10px;padding-bottom: 10px;margin-bottom: 40px;}
+.main table{border-collapse: collapse;margin: 0 auto;}
+.main .title{border: 1px solid #ccc;height: 30px;line-height: 30px;padding: 0 10px;width: 300px;}
+.main textarea{width:950px;height:400px;line-height: 30px;font-size: 16px;padding:10px;resize:none;border-left: #aaa 1px solid;border-right:#dcdcdc 1px solid; border-bottom:#dcdcdc 1px solid;}
+.main .btn{width: 66px;height: 30px;border-radius: 2px;font-size: 14px;color: #fff;background-color: #f4a103;border:1px solid #bd742f;
+    cursor: pointer;margin-left: 10px;}
+.main .btn2{width: 66px;height: 30px;border-radius: 2px;font-size: 14px;background-color: #f0f0f0;border:1px solid #aaa;
+    cursor: pointer;}
+

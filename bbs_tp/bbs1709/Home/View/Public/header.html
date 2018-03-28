@@ -1,0 +1,68 @@
+<div class="top">
+    <ul class="inner clearfix top_nav">
+        <li class="left"><a href="#">设为首页</a></li>
+        <li class="left"><a href="#">收藏LAMP兄弟连</a></li>
+        <li><a href="__MODULE__/Signup/index">注册</a></li>
+        <li><a href="__MODULE__/Login/index">登陆</a></li>
+        <li><a href="#">帮助</a></li>
+        <li><a href="#">推广链接</a></li>
+        <li><a href="#">社区应用</a></li>
+        <li><a href="#">最新帖子</a></li>
+        <li><a href="#">精华区</a></li>
+        <li><a href="#">社区服务</a></li>
+        <li><a href="#">会员列表</a></li>
+        <li><a href="#">统计排行</a></li>
+        <li><a href="#">搜索</a></li>
+    </ul>
+</div>
+<div class="header inner">
+    <a href="__MODULE__/Index/index" class="logo"><img src="__PUBLIC__/Home/images/logo/{$configRes['logo']}"/></a>
+
+    <if condition="$Think.session.res == null ">
+    <form action="__MODULE__/Login/doLogin" method="post">
+        <table border="" cellspacing="" cellpadding="">
+            <tr>
+                <td class="inputBox">
+                    <input type="text" name="userName" placeholder="输入用户名" class="name"/>
+                </td>
+                <td><label><input type="checkbox" />记住登录</label></td>
+                <td><a href="#">找回密码</a></td>
+            </tr>
+            <tr>
+                <td><input type="password"  name="password" class="pass"/></td>
+                <td><input type="submit" value="登陆" class="btn login"></td>
+                <td><a href="__MODULE__/Signup/index" class="btn signup">注册</a></td>
+            </tr>
+        </table>
+    </form>
+    <else/>
+        <div style="float: right;padding-top: 30px;" id="user">
+            <span style="display: inline-block;width: 50px;height:50px;border-radius: 50%;border: 1px solid #fff;overflow: hidden;">
+                <if condition="$Think.session.photo == 'photo' ">
+                    <a href="__MODULE__/Center/editPic"><img src="__PUBLIC__/Photos/default.jpg" alt="" style="height: 100%;"></a>
+                <else/>
+                    <a href="__MODULE__/Center/editPic"><img src="__PUBLIC__/Photos/{$Think.session.photo}" alt="" style="height: 100%;"></a>
+                </if>
+
+            </span>
+            <span style="vertical-align: 15px;font-weight: bolder;font-size: 14px;">
+                {$Think.session.res.username}&nbsp;
+                <a href="__MODULE__/Center/index/id/{$Think.session.res.id}">个人中心</a>&nbsp;
+                <a href="__MODULE__/Login/doLogout" style="color: blue;">退出</a>
+            </span>
+        </div>
+    </if>
+</div>
+<div class="nav">
+    <div class="inner">
+        <ul>
+            <li><a href="#">培训课程</a></li>
+            <li><a href="#">论坛</a></li>
+            <li><a href="#">兄弟连云课堂</a></li>
+            <li><a href="#">PHP视屏</a></li>
+            <li><a href="#">Linux视频</a></li>
+            <li><a href="#">战地日记</a></li>
+        </ul>
+        <button type="button">快捷通道</button>
+    </div>
+</div>

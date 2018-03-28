@@ -1,0 +1,65 @@
+<?php  date_default_timezone_set('PRC')?>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>主要内容区main</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/post.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/editor/styles/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/editor/styles/simditor.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/editor/styles/simditor-emoji.css">
+
+</head>
+<body >
+
+<div class="search inner">
+    <form action="" method="post">
+        <input type="text" name="" id="" placeholder="让学习成为一种习惯！" class="serBox"/>
+        <select name="">
+            <option value="">帖子</option>
+            <option value="">用户</option>
+            <option value="">板块</option>
+        </select>
+        <input type="submit" value="搜索" class="btn"/>
+        <ul class="tags clearfix">
+            <li>热搜：</li>
+            <li><a href="#">PHP</a></li>
+            <li><a href="#">明哥</a></li>
+            <li><a href="#">Java</a></li>
+            <li><a href="#">大数据</a></li>
+            <li><a href="#">Python</a></li>
+        </ul>
+    </form>
+</div>
+<div class="main inner">
+    <form method="post" action="__MODULE__/Post/doPost">
+    <table>
+        <input type="hidden" name="ctime" value="{: date('Y/m/d H:i:s')}">
+        <input type="hidden" name="uid" value="{$_SESSION['res']['id']}">
+        <input type="hidden" name="tid" value="{$Think.get.id}">
+        <tr style="height: 50px;">
+            <td colspan="3">标题：&nbsp;<input type="text" name="title" class="title" placeholder="请输入标题" required></td>
+        </tr>
+        <tr>
+            <td colspan="3"><textarea id="editor" placeholder="这里输入内容" autofocus name='content' required></textarea></td>
+        </tr>
+        <tr style="height: 70px;">
+            <td width="120"><input name="" type="submit" value="发布" class="btn"></td>
+            <td><input name="" type="reset" value="重置" class="btn2" ></td>
+        </tr>
+    </table>
+    </form>
+</div>
+</body>
+<script>
+    var imgUrl='__PUBLIC__/Home/editor/';
+</script>
+
+<script src="__PUBLIC__/Home/editor/scripts/jquery.min.js"></script>
+<script src="__PUBLIC__/Home/editor/scripts/module.js"></script>
+<script src="__PUBLIC__/Home/editor/scripts/uploader.js"></script>
+<script src="__PUBLIC__/Home/editor/scripts/simditor.js"></script>
+<script src="__PUBLIC__/Home/editor/scripts/simditor-emoji.js"></script>
+<script src="__PUBLIC__/Home/editor/scripts/config.js"></script>
+
+</html>

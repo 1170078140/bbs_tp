@@ -1,0 +1,1806 @@
+[ 2018-01-17T09:00:28+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:00:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:01:02+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:01:15+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:01:28+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:13+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:16+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:36+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:45+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/utoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/jindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000780s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002275s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036073s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000315s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001436s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001556s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/weibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/wechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002105s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/qzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000182s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001899s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002407s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/huifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001438s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/QQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000191s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:46+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:10:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:02+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/utoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/wechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/jindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001944s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/new2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/qzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/QQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/weibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002519s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034550s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/medal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004071s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001539s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:03+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/huifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002477s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001572s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002753s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001521s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000311s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001124s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsqzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002075s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000449s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.033831s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:47+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002025s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002448s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001698s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001095s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001928s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024273s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002755s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsqzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001538s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002959s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010368s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001334s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006737s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001304s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034685s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000412s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsqzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002435s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.032535s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:49+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002291s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001487s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021605s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001246s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsqzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001326s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001170s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001562s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013660s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000220s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001777s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000185s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001384s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010127s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001443s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsqzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001221s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001466s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009111s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000144s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000223s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004976s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002148s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002938s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000191s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001719s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007150s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003914s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001500s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsqzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001696s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001610s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024393s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002763s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001169s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002016s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002412s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000316s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsqzone.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000276s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000372s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002310s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000468s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001645s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001770s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsutoux.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsQQ.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsdetailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.054749s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal4.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailswechat.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000277s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001481s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsjindu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001137s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsweibo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsnew6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal10.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailshuifu.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal5.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001644s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details1506.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000278s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001557s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:11:55+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/detailsmedal9.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006667s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:12:11+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details/detailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:12:12+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details/detailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001232s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:12:12+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details/detailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:12:12+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details/detailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:12:13+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/details/detailslogo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T09:44:08+08:00 ] ::1 /php/week6/Project_bbs/Public/Admin/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:25+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000220s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001498s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:27+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001367s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:27+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:27+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001380s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:27+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:27+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:27+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001450s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:42+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001609s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:42+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:42+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:42+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001324s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:42+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:26:42+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:27:48+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:22+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001481s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:24+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:24+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003510s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:24+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:24+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:24+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005617s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:24+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001552s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:26+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:52+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002081s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:53+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T11:28:54+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:18:01+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001384s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:18:04+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:18:04+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:18:04+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:18:04+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001235s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:18:04+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:18:04+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:26:56+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001130s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:26:59+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:26:59+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002594s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:26:59+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001883s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:26:59+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001216s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:26:59+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001334s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:26:59+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001263s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:33:42+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:33:45+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanli.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:33:45+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/bttiao.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:33:45+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/ydjian.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:33:45+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/light.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:33:45+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/guanz.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T14:33:45+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/images/fax.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:30:41+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:33:15+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:33:20+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:33:31+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:33:56+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:36:19+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002728s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:36:23+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-17T15:36:29+08:00 ] ::1 /php/week6/Project_bbs/Public/Home/css/next.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Public
+

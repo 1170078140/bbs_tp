@@ -1,0 +1,178 @@
+[ 2018-03-27T10:29:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021002s ]
+SQL: SHOW COLUMNS FROM `type` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `type` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `type` WHERE ( pid!=0 )  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `friendlink` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `friendlink`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: res D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\c182afc48dcf006cfa0b33408401cd3e.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.163009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.166009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2018-03-27T18:46:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+SQL: SHOW COLUMNS FROM `type` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `type` WHERE ( pid=0 )  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `type` WHERE ( pid!=0 )  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `friendlink` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `friendlink`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.009000s ]
+NOTIC: [8] Undefined index: res D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\c182afc48dcf006cfa0b33408401cd3e.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.141008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.144008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2018-03-27T18:46:26+08:00 ] 127.0.0.1 /index.php/Home/List/index/tid/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `post` [ RunTime:0.0100s ]
+SQL: select user.userName,post.title,post.id,post.elite from user,post where user.id=post.uid && post.tid=5 [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `type` [ RunTime:0.0120s ]
+SQL: SELECT `id`,`name`,`pid` FROM `type` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0050s ]
+SQL: SELECT `name` FROM `type` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: res D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\ccf02087fb66f47734f9f917d65c572f.php 第 21 行.
+NOTIC: [8] Undefined variable: name D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\ccf02087fb66f47734f9f917d65c572f.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.152009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2018-03-27T18:54:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+SQL: SHOW COLUMNS FROM `type` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `type` WHERE ( pid=0 )  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `type` WHERE ( pid!=0 )  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `friendlink` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `friendlink`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: res D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\c182afc48dcf006cfa0b33408401cd3e.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.179011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.182011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2018-03-27T18:55:02+08:00 ] 127.0.0.1 /index.php/Home/List/index/tid/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `post` [ RunTime:0.0110s ]
+SQL: select user.userName,post.title,post.id,post.elite from user,post where user.id=post.uid && post.tid=5 [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `type` [ RunTime:0.0160s ]
+SQL: SELECT `id`,`name`,`pid` FROM `type` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `name` FROM `type` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: res D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\ccf02087fb66f47734f9f917d65c572f.php 第 21 行.
+NOTIC: [8] Undefined variable: name D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\ccf02087fb66f47734f9f917d65c572f.php 第 92 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2018-03-27T18:55:05+08:00 ] 127.0.0.1 /index.php/Home/Details/index/id/1/tid/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `config` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `config`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `post` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `post` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `userdetail` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `userdetail` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `type` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `type` WHERE `id` = 5 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `type` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `reply` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `reply` WHERE ( pid=1 )  [ RunTime:0.0020s ]
+SQL: SELECT `nickName` FROM `userdetail` WHERE ( uid=3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `photo` FROM `userdetail` WHERE ( uid=3 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `nickName` FROM `userdetail` WHERE ( uid=3 ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `photo` FROM `userdetail` WHERE ( uid=3 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: res D:\xampp\htdocs\php\case\6.bbs_tp\bbs_tp\bbs1709\Runtime\Cache\Home\f711a69828e1311fcc05c50d481e1439.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020001s ]
+

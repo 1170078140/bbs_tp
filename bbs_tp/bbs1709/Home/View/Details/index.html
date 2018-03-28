@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>LAMP兄弟连-列表页</title>
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/Home/css/style.css"/>
+		<link rel="stylesheet" href="__PUBLIC__/Home/css/details.css">
+		<script src="__PUBLIC__/Home/js/fn.js"></script>
+	</head>
+	<body>
+		<div class="inner">
+			<!--引导层开始-->
+			<div id="yindao">
+				<p><a href="__MODULE__/Index/index">{$father['name']}</a> > <a href="__MODULE__/list/index/tid/{$Think.get.tid}">{$son['name']}</a> > <a href="__SELF__">{$res['title']}</a></p>
+			</div>
+			<!--引导层结束-->
+			
+			<!--分页开始-->
+			<div id="list">
+				<div id="page">
+					<div id="pagefy">
+						<ul>
+							<li><a href="#">< 返回列表</a></li>
+							<li><a href="#">1</a></li>
+							<li><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>
+							<li><a href="#">5</a></li>
+							<li><a href="#">6</a></li>
+							<li><a href="#">…537</a></li>
+							<li><a href="#">下一页 ></a></li>
+						</ul>
+					</div>
+					<div id="fatie">
+						<a href="__MODULE__/Reply/index/pid/{$res['id']}"><button id="replyBtn" >回复</button></a>
+						<a href="__MODULE__/Post/index/id/{$tid}"><button >发帖</button></a>
+					</div>
+				</div>
+			</div>
+			<!--分页结束-->
+
+			<div style="display: none;" class="alertbox">
+				<textarea></textarea>
+				<input type="submit" value="确定" class="ok">
+			</div>
+			<div style="display: none;" class="modal"></div>
+			
+			<!--楼主帖子详情开始-->
+			<div id="bigdetail">
+				<div id="detail">
+					<div id="lzinfo">
+						<div id="read">
+							<p>29585</p>
+							<p>阅读</p>
+						</div>
+						<div id="reply">
+							<p>641</p>
+							<p>回复</p>
+						</div>
+						<div id="lztoux">
+							<div id="uname">
+								<a href="#">{$userRes['nickname']}</a>
+							</div>
+							<div id="utoux">
+								<img style="width: 100%;max-height: 132px;" src="__PUBLIC__/Photos/{$userRes['photo']}"/>
+							</div>
+							<div id="ulevel">
+								<a href="#">上士</a><br/>
+								<img src="__PUBLIC__/Home/images/details/jindu.png"/>
+							</div>
+							<div id="uhuiz">
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new1.gif"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new2.gif"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new4.gif"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new5.gif"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new6.gif"/></a>
+							</div>
+							<div id="uguanz">
+								<a href="#" class="jia">加关注</a>
+								<a href="#" class="fa">发消息</a>
+							</div>
+						</div>
+					</div>
+					<div id="tzinfo">
+						<div id="tzbiaot">
+							<p>{$res['title']}<span><a href="#">[复制链接]</a></span></p>
+						</div>
+						<div id="tzxiangq">
+							<div id="fttime">
+								<p>楼主 发表于:2016-02-19</p>
+								<ul>
+									<li><a href="#">只看楼主</a></li>
+									<li><a href="#">倒叙阅读</a></li>
+									<li><a href="#">使用道具</a></li>
+								</ul>
+							</div>
+							<div id="tzneir">
+								<p>{$res['content']}</p>
+							</div>
+							<div id="tzfenx">
+								<a href="#"><img src="__PUBLIC__/Home/images/details/wechat.png"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/QQ.png"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/qzone.png"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/weibo.png"/></a>
+							</div>
+							<div id="tzyinc">
+								<div></div><p>附件设置隐藏，需要回复后才能看到！</p>
+							</div>
+							<div id="tzpingf">
+								<p>共<span>2</span>条评分，兄弟连粮票<span>+10</span></p>
+							</div>
+							<div id="tzpingfxx">
+								<div class='tzpingfxxleft'>
+									<span class='tzjfname'><a href='#'>姜秀明</a></span> <span style="font-size:15px;">兄弟连粮票</span> <span class='tzjfnumber'>+5</span>
+								</div>
+								<div class='tzpingfxxright'>
+									<span class='tzjfname'>2016-10-12 11:02:12</span>
+								</div>
+							</div>
+							<div id="tzpingfxx">
+								<div class='tzpingfxxleft'>
+									<span class='tzjfname'><a href='#'>吴秀波</a></span> <span style="font-size:15px;">兄弟连粮票</span> <span class='tzjfnumber'>+5</span>
+								</div>
+								<div class='tzpingfxxright'>
+									<span class='tzjfname'>2016-10-12 11:02:12</span>
+								</div>
+							</div>
+							<div id="tzpingfxx">
+								<div class='tzpingfxxleft'>
+									<span class='tzjfname'><a href='#'>黄&nbsp;渤</a></span> <span style="font-size:15px;">兄弟连粮票</span> <span class='tzjfnumber'>+5</span>
+								</div>
+								<div class='tzpingfxxright'>
+									<span class='tzjfname'>2016-10-12 11:02:12</span>
+								</div>
+							</div>
+							<div class="tzhuif">
+								<a href=''><img src='__PUBLIC__/Home/images/details/huifu.jpg'/> <span>回复</span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--楼主帖子详情结束-->
+			
+			<!--回帖信息开始-->
+			<foreach name="replyRes" item="v">
+			<div id='detail'>
+				<div id="lzinfo">
+						<div id="lztoux">
+							<div id="uname">
+								<a href="#">{$v['nickName']}</a>
+							</div>
+							<div id="utoux">
+								<img src="__PUBLIC__/Photos/{$v['photo']}" width="118"/>
+							</div>
+							<div id="ulevel">
+								<a href="#">下士</a><br/>
+								<img src="__PUBLIC__/Home/images/details/jindu.png"/>
+							</div>
+							<div id="uhuiz">
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new1.gif"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new2.gif"/></a>
+								<a href="#"><img src="__PUBLIC__/Home/images/details/new4.gif"/></a>
+							</div>
+							<div id="uguanz">
+								<a href="#" class="jia">加关注</a>
+								<a href="#" class="fa">发消息</a>
+							</div>
+						</div>
+					</div>
+					<div id="tzinfo">
+						<div id="tzxiangq">
+							<div id="fttime">
+								<p>沙发 发表于:{$v['ctime']}</p>
+								<ul>
+									<li><a href="#">只看该作者</a></li>
+								</ul>
+							</div>
+							<div id="tzneir">
+								<p>{$v['content']}</p>
+							</div>
+							
+							<div class="tzhuif">
+								<a href=''><img src='__PUBLIC__/Home/images/details/huifu.jpg'/> <span>回复</span></a>
+							</div>
+						</div>
+					</div>
+				<div class="htright">
+				
+				</div>
+			</div>
+			</foreach>
+			<!--回帖信息结束-->
+			
+			<!--分页开始-->
+			<div id="list">
+				<div id="page">
+					<div id="pagefy">
+						<ul>
+							<li><a href="#">< 返回列表</a></li>
+							<li><a href="#">1</a></li>
+							<li><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>
+							<li><a href="#">5</a></li>
+							<li><a href="#">6</a></li>
+							<li><a href="#">…537</a></li>
+							<li><a href="#">下一页 ></a></li>
+						</ul>
+					</div>
+					<div id="fatie">
+						<a href="__MODULE__/Reply/index/pid/{$res['id']}"><button image="__PUBLIC__/Home/images/details/fatie.png">回复</button></a>
+						<a href="__MODULE__/Post/index/id/{$tid}"><button image="__PUBLIC__/Home/images/details/fatie.png">发帖</button></a>
+					</div>
+				</div>
+			</div>
+			<!--分页结束-->
+        </div>
+		<div id="clear"></div>
+		<!--大盒子结束-->
+	</body>
+	<!--<script>
+		var replyBtn=document.getElementById('replyBtn');
+        var oModal=document.getElementsByClassName('modal')[0];
+        var oAlertbox=document.getElementsByClassName('alertbox')[0];
+		replyBtn.onclick=function () {
+            oModal.style.display='block';
+            oAlertbox.style.display='block';
+
+            //弹窗居中
+            var screenW=document.documentElement.clientWidth;
+            var screenH=document.documentElement.clientHeight;
+            var l=(screenW-oAlertbox.offsetWidth)/2;
+            var t=(screenH-oAlertbox.offsetHeight)/2;
+            oAlertbox.style.left=l+"px";
+            oAlertbox.style.top=t+"px";
+
+            //点击确定，删除弹框和模态层
+            var delBtn=oAlertbox.getElementsByClassName('ok')[0];
+            delBtn.onclick= function () {
+                oModal.style.display='none';
+                oAlertbox.style.display='none';
+            }
+		}
+	</script>-->
+</html>
